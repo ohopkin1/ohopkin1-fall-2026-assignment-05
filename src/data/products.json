@@ -1,1 +1,123 @@
-[]
+
+[
+  {
+    "id": 1,
+    "name": "Wired Headphones",
+    "price": 59.00,
+    "category": "Audio",
+    "description": "Over-the-ear headphones that provide sound once connected through wire.",
+    "imageUrl": "./images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nintendo Switch",
+    "price": 169.99,
+    "category": "Gaming",
+    "description": "A portable or home gaming console made by Nintendo.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wired Mouse",
+    "price": 7.99,
+    "category": "Electronic Accessories",
+    "description": "A wired mouse for use with computers.",
+    "imageUrl": "./images/product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Calculator",
+    "price": 110.99,
+    "category": "Electronics",
+    "description": "High functioning calculator for use in math classes.",
+    "imageUrl": "./images/product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Metal Water Bottle",
+    "price": 29.99,
+    "category": "Home & Kitchen",
+    "description": "A portable metal water bottle.",
+    "imageUrl": "./images/product5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Electric Toothbrush",
+    "price": 44.99,
+    "category": "Health & Household",
+    "description": "A rechargeable electric toothbrush.",
+    "imageUrl": "./images/product6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "256GB microSD Card",
+    "price": 49.99,
+    "category": "Electronic Accessories",
+    "description": "A microSD card for storage on electronic devices",
+    "imageUrl": "./images/product7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Adidas Slides",
+    "price": 19.99,
+    "category": "Clothing",
+    "description": "Comfortable slide-in sandals for use at home and outside.",
+    "imageUrl": "./images/product8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Skillet",
+    "price": 24.99,
+    "category": "Home & Kitchen",
+    "description": "A frying pan for use in cooking on a stove",
+    "imageUrl": "./images/product9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Router",
+    "price": 54.99,
+    "category": "Electronics",
+    "description": "A router to connect electronic devices to the internet.",
+    "imageUrl": "./images/product10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Portable HDD",
+    "price": 129.99,
+    "category": "Electronic Accessories",
+    "description": "A portable storage drive for use in electronic devices.",
+    "imageUrl": "./images/product11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Shampoo",
+    "price": 7.99,
+    "category": "Beauty & Personal Care",
+    "description": "Medicated Shampoo formulated to control dandruff.",
+    "imageUrl": "./images/product12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Gaming Controller",
+    "price": 39.99,
+    "category": "Gaming",
+    "description": "A controller for PC and console gaming.",
+    "imageUrl": "./images/product13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "LED Desk Lamp",
+    "price": 20.99,
+    "category": "Lighting",
+    "description": "An adjustable LED desk lamp providing light when needed.",
+    "imageUrl": "./images/product14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Sneakers",
+    "price": 40.99,
+    "category": "Power",
+    "description": "A pair of men's sneakers for exercise and general wear.",
+    "imageUrl": "./images/product15.jpg"
+  }
+]

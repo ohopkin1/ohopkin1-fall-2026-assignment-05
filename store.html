@@ -1,1 +1,73 @@
 
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Browse electronics, gaming gear, home goods, and everyday essentials at LifeScience.">
+  <title>LifeScience | Store</title>
+  <link rel="stylesheet" href="./src/styles/main.css">
+  <script type="module" src="./src/main.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="./index.html">LifeScience</a>
+    <nav aria-label="Main navigation">
+      <a href="./index.html">Home</a>
+      <a href="./about.html">About</a>
+      <a href="./store.html" aria-current="page">Store</a>
+    </nav>
+  </header>
+
+  <main class="page-content">
+    <section class="page-intro">
+      <p class="eyebrow">THE LifeScience COLLECTION</p>
+      <h1>Explore Our Products</h1>
+      <p>
+        Browse 15 of our best products, from gaming accessories
+        to home essentials.
+      </p>
+    </section>
+
+    <section class="catalog-section" aria-label="Product catalog">
+      <div class="catalog-heading">
+        <h2>Our Collection</h2>
+        <p>Showing five products per page</p>
+      </div>
+
+      <div
+        id="product-grid"
+        class="product-grid"
+        aria-live="polite"
+        aria-busy="false"
+      >
+        <p>Loading products...</p>
+      </div>
+
+      <nav class="pagination" aria-label="Product pagination">
+        <button id="prev-btn" type="button" disabled>
+          &larr; Previous
+        </button>
+
+        <p id="page-indicator" aria-live="polite">Page 1 of 3</p>
+
+        <button id="next-btn" type="button">
+          Next &rarr;
+        </button>
+      </nav>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <a class="footer-brand" href="./index.html">LifeScience</a>
+    <p>Everyday products for work, home, and play.</p>
+    <p>
+      <a href="./index.html">Home</a> ·
+      <a href="./about.html">About</a> ·
+      <a href="./store.html">Store</a>
+    </p>
+    <p>Mock store hours: Monday–Saturday, 9 AM–6 PM</p>
+    <p>&copy; 2026 LifeScience. All rights reserved.</p>
+  </footer>
+</body>
+</html>
